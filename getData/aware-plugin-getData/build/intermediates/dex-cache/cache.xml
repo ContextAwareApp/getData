@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-a926febe976d9df3ea45b35ba999a90dbd49e235.jar" />
+    </item>
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/classes-cf664170c14526456e7281d3b86eaf9f4ae65b27.jar" />
+    </item>
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/libs/jsr94.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b76d3fd6f668ed0c6ae7cb719ef1b723b3955bec">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/jsr94-80477b54474732ea02b05a367c1467dccbe5b42d.jar" />
+    </item>
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/libs/commons-math3-3.5.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="13af68e9a11576953f5c4b09436f8207be9d3a27">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/commons-math3-3.5-175c98aa6be31c3523ab8f62fad67d1af99d1376.jar" />
+    </item>
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/classes-3c0e8f05d54d8fc123365a3ee04906889fedee09.jar" />
+    </item>
+    <item
+        jar="/usr/local/install/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-ce2281cdc487b20b1bbfa1415a0ceb93a4cb5236.jar" />
+    </item>
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/exploded-aar/com.awareframework/aware-core/3.3.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5fd6691315c1289c0c36f8e512f1bf80e3d0124b">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/classes-c9accf71e0bfd4d27ffe5c3dae8e5fab8d6295d0.jar" />
+    </item>
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/libs/jess.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ec901d9d251de1c8b011a8046ee5bf3666813c7b">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/jess-23cf402fca0235c7644daf7621f7e177d3b9aa26.jar" />
+    </item>
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/exploded-aar/com.awareframework/aware-core/3.3.2/libs/zbar.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/zbar-2dae5a50a7a1b8aad86ad44424f939388242b6b5.jar" />
+    </item>
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/libs/achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/achartengine-1.1.0-a22ef567df028146c993b12e35493007b26a171c.jar" />
+    </item>
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/exploded-aar/com.awareframework/aware-core/3.3.2/libs/mqtt-client-0.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="02315d1759d01e52495e040e6e538aaa2e91c7f6">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/mqtt-client-0.4.0-41f7e67356dd7b40765d443889ec1832a1b25340.jar" />
+    </item>
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/classes-0603ce3a665a0e13342717489a08bd626ed3df39.jar" />
+    </item>
+    <item
+        jar="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/yuyu/Projet_spe/Projet_Spe_Frigerio_Lucas/getData/aware-plugin-getData/app/build/intermediates/pre-dexed/debug/classes-39671f45af601a95d2cddc489cfc7e05d3979c10.jar" />
+    </item>
+
+</items>
